@@ -1,0 +1,1 @@
+window.__NUXT__={staticAssetsBase:"\u002Fboyfriend-survay\u002F_nuxt\u002Fstatic\u002F1635528451",layout:"empty",error:{statusCode:500,message:"Unknown middleware check-auth"},serverRendered:false,routePath:"\u002Fresults",config:{_app:{basePath:"\u002Fboyfriend-survay\u002F",assetsPath:"\u002Fboyfriend-survay\u002F_nuxt\u002F",cdnURL:null}}};
